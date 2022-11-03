@@ -189,3 +189,11 @@ main {
 	text-align: center;
 	grid-area: progress;
 }
+
+a {
+	color: aliceblue;
+}
+
+a:hover {
+	color: blue;
+}
