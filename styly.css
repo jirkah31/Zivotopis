@@ -7,7 +7,7 @@ h1 {
 	font-size: 3em;
 	display: block;
 	color: #00c95a;
-	margin: 20px 5px 5px 5px;
+	margin: 20px 5px 0px 5px;
 	text-shadow: 2px 2px 1px rgb(0 0 0);
 }
 
@@ -17,6 +17,11 @@ h2 {
 	color: #00c95a;
 	margin: 20px 5px 5px 5px;
 	text-shadow: 2px 2px 1px rgba(177, 34, 34, 0);
+}
+
+h3 {
+	margin-top: 0;
+	padding: 0;
 }
 
 summary h2 {
